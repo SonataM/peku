@@ -49,163 +49,163 @@
         k = [
           {
             caption:
-              "\uD83D\uDE80 Hurry up! The $Peko @Pekosol presale is closing soon! Don't miss out on this opportunity. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDE80 Hurry up! The $Peku @Pekosol presale is closing soon! Don't miss out on this opportunity. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD25 Last chance alert! The $Peko @Pekosol presale is wrapping up! Act fast to get in on the action. Backed by $Sekai @Sekai_DAO and prelisted on Lbank. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDD25 Last chance alert! The $Peku @Pekosol presale is wrapping up! Act fast to get in on the action. Backed by $Sekai @Sekai_DAO and prelisted on Lbank. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "⏳ Time is running out! Secure your spot in the $Peko @Pekosol presale before it's too late! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "⏳ Time is running out! Secure your spot in the $Peku @Pekosol presale before it's too late! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDEA8 Final call! The $Peko @Pekosol presale is about to close its doors! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss this opportunity! #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDEA8 Final call! The $Peku @Pekosol presale is about to close its doors! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss this opportunity! #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83C\uDF1F Act now! The $Peko @Pekosol presale is entering its final hours! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens before it's too late. #crypto #presale $slerf $bome $smole",
+              "\uD83C\uDF1F Act now! The $Peku @Pekosol presale is entering its final hours! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens before it's too late. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCA5 Don't wait! The $Peko @Pekosol presale is ending soon! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Get in now before it's over. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDCA5 Don't wait! The $Peku @Pekosol presale is ending soon! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Get in now before it's over. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD14 Last chance to join the $Peko @Pekosol presale! Act fast to grab your tokens. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDD14 Last chance to join the $Peku @Pekosol presale! Act fast to grab your tokens. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCE2 Final opportunity alert! The $Peko @Pekosol presale is closing soon! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Get your tokens now. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDCE2 Final opportunity alert! The $Peku @Pekosol presale is closing soon! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Get your tokens now. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDE80 Last chance to participate in the $Peko @Pekosol presale! Don't miss out on this exclusive opportunity. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDE80 Last chance to participate in the $Peku @Pekosol presale! Don't miss out on this exclusive opportunity. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD25 Act fast! The $Peko @Pekosol presale is almost over! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Grab your tokens before it's too late. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDD25 Act fast! The $Peku @Pekosol presale is almost over! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Grab your tokens before it's too late. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDE80 Hurry up! The $Peko @Pekosol presale is closing soon! Don't miss out on this opportunity. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDE80 Hurry up! The $Peku @Pekosol presale is closing soon! Don't miss out on this opportunity. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD25 Last chance alert! The $Peko @Pekosol presale is wrapping up! Act fast to get in on the action. Backed by $Sekai @Sekai_DAO and prelisted on Lbank. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDD25 Last chance alert! The $Peku @Pekosol presale is wrapping up! Act fast to get in on the action. Backed by $Sekai @Sekai_DAO and prelisted on Lbank. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "⏳ Time is running out! Secure your spot in the $Peko @Pekosol presale before it's too late! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "⏳ Time is running out! Secure your spot in the $Peku @Pekosol presale before it's too late! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDEA8 Final call! The $Peko @Pekosol presale is about to close its doors! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss this opportunity! #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDEA8 Final call! The $Peku @Pekosol presale is about to close its doors! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss this opportunity! #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83C\uDF1F Act now! The $Peko @Pekosol presale is entering its final hours! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens before it's too late. #crypto #presale $slerf $bome $smole",
+              "\uD83C\uDF1F Act now! The $Peku @Pekosol presale is entering its final hours! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens before it's too late. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCA5 Don't wait! The $Peko @Pekosol presale is ending soon! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Get in now before it's over. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDCA5 Don't wait! The $Peku @Pekosol presale is ending soon! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Get in now before it's over. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD14 Last chance to join the $Peko @Pekosol presale! Act fast to grab your tokens. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDD14 Last chance to join the $Peku @Pekosol presale! Act fast to grab your tokens. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCE2 Final opportunity alert! The $Peko @Pekosol presale is closing soon! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Get your tokens now. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDCE2 Final opportunity alert! The $Peku @Pekosol presale is closing soon! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Get your tokens now. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDE80 Last chance to participate in the $Peko @Pekosol presale! Don't miss out on this exclusive opportunity. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDE80 Last chance to participate in the $Peku @Pekosol presale! Don't miss out on this exclusive opportunity. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD25 Act fast! The $Peko @Pekosol presale is almost over! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Grab your tokens before it's too late. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDD25 Act fast! The $Peku @Pekosol presale is almost over! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Grab your tokens before it's too late. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83C\uDF1F Opportunity knocks! The $Peko @Pekosol presale is reaching its final moments! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens now. #crypto #presale $slerf $bome $smole",
+              "\uD83C\uDF1F Opportunity knocks! The $Peku @Pekosol presale is reaching its final moments! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens now. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCA5 Time's running out! Secure your tokens in the $Peko @Pekosol presale today! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss out! #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDCA5 Time's running out! Secure your tokens in the $Peku @Pekosol presale today! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss out! #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDEA8 Don't miss this chance! The $Peko @Pekosol presale is ending soon! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Get in while you still can. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDEA8 Don't miss this chance! The $Peku @Pekosol presale is ending soon! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Get in while you still can. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD14 Act now! The $Peko @Pekosol presale is closing its doors soon! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens before it's too late. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDD14 Act now! The $Peku @Pekosol presale is closing its doors soon! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens before it's too late. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCE2 Final hours alert! The $Peko @Pekosol presale is wrapping up! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't hesitate, join now. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDCE2 Final hours alert! The $Peku @Pekosol presale is wrapping up! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't hesitate, join now. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDE80 Last chance to get in on the $Peko @Pekosol presale! Act fast to secure your tokens. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDE80 Last chance to get in on the $Peku @Pekosol presale! Act fast to secure your tokens. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD25 It's crunch time! The $Peko @Pekosol presale is about to end! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Don't wait, join now. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDD25 It's crunch time! The $Peku @Pekosol presale is about to end! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Don't wait, join now. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "⏰ Time's ticking! The $Peko @Pekosol presale is nearing its end! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss your chance. #cryptocurrency #presale $slerf $bome $smole",
+              "⏰ Time's ticking! The $Peku @Pekosol presale is nearing its end! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss your chance. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83C\uDF1F Last call! The $Peko @Pekosol presale is almost over! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Grab your tokens now. #crypto #presale $slerf $bome $smole",
+              "\uD83C\uDF1F Last call! The $Peku @Pekosol presale is almost over! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Grab your tokens now. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCA5 Opportunity is knocking! The $Peko @Pekosol presale is ending soon! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Get your tokens before it's too late. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDCA5 Opportunity is knocking! The $Peku @Pekosol presale is ending soon! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Get your tokens before it's too late. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCE2 Act fast! The $Peko @Pekosol presale is ending soon! Don't miss your chance to join. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDCE2 Act fast! The $Peku @Pekosol presale is ending soon! Don't miss your chance to join. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDE80 Last opportunity alert! The $Peko @Pekosol presale is about to conclude! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens now. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDE80 Last opportunity alert! The $Peku @Pekosol presale is about to conclude! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens now. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD25 Grab your tokens now! The $Peko @Pekosol presale is entering its final phase! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Don't wait until it's too late. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDD25 Grab your tokens now! The $Peku @Pekosol presale is entering its final phase! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Don't wait until it's too late. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "⏳ The clock is ticking! The $Peko @Pekosol presale is closing soon! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Get in now before it's over. #cryptocurrency #presale $slerf $bome $smole",
+              "⏳ The clock is ticking! The $Peku @Pekosol presale is closing soon! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Get in now before it's over. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83C\uDF1F Time is running out! Join the $Peko @Pekosol presale before it's too late! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss this opportunity. #crypto #presale $slerf $bome $smole",
+              "\uD83C\uDF1F Time is running out! Join the $Peku @Pekosol presale before it's too late! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss this opportunity. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCA5 Last chance to participate! The $Peko @Pekosol presale is wrapping up! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens now. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDCA5 Last chance to participate! The $Peku @Pekosol presale is wrapping up! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens now. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDD14 Act now! The $Peko @Pekosol presale is about to end! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss this final opportunity. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDD14 Act now! The $Peku @Pekosol presale is about to end! Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss this final opportunity. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDEA8 Don't wait! The $Peko @Pekosol presale is nearing its conclusion! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens now. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDEA8 Don't wait! The $Peku @Pekosol presale is nearing its conclusion! Backed by $Sekai @Sekai_DAO and prelisted on Lbank. Secure your tokens now. #cryptocurrency #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDCE2 Final call! The $Peko @Pekosol presale is ending soon! Act fast to secure your tokens. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
+              "\uD83D\uDCE2 Final call! The $Peku @Pekosol presale is ending soon! Act fast to secure your tokens. Incubated by $Sekai @Sekai_DAO and prelisted on Lbank. #crypto #presale $slerf $bome $smole",
           },
           {
             caption:
-              "\uD83D\uDE80 Grab your tokens now! The $Peko @Pekosol presale is about to close! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss out. #cryptocurrency #presale $slerf $bome $smole",
+              "\uD83D\uDE80 Grab your tokens now! The $Peku @Pekosol presale is about to close! Supported by $Sekai @Sekai_DAO and prelisted on Lbank. Don't miss out. #cryptocurrency #presale $slerf $bome $smole",
           },
         ];
       function TotalSolRaised() {
@@ -236,7 +236,7 @@
                   "flex xl:hidden flex-row gap-4 items-center mt-8 mx-8 relative z-20 w-min",
                 children: [
                   (0, a.jsx)("a", {
-                    href: "https://t.me/pekosol",
+                    href: "https://t.me/pekueth",
                     className:
                       "hover:scale-105 transition-all duration-300 ease-in-out",
                     initial: { opacity: 0 },
@@ -255,7 +255,7 @@
                     }),
                   }),
                   (0, a.jsx)("a", {
-                    href: "https://x.com/pekosol?s=21",
+                    href: "https://x.com/pekueth",
                     className:
                       "hover:scale-105 transition-all duration-300 ease-in-out",
                     initial: { opacity: 0 },
@@ -496,11 +496,11 @@
           { id: 3, navTitle: "Pekonomics", link: "/#pekonomics" },
           { id: 5, navTitle: "Presale Stats", link: "/#stats" },
           { id: 6, navTitle: "Raid generator", link: "/raid" },
-          { id: 7, navTitle: "Telegram", link: "https://t.me/pekosol" },
-          { id: 8, navTitle: "X", link: "https://x.com/pekosol?s=21" },
+          { id: 7, navTitle: "Telegram", link: "https://t.me/pekueth" },
+          { id: 8, navTitle: "X", link: "https://x.com/pekueth" },
         ],
         d = [
-          { id: 1, navTitle: "About Peko", link: "/#about" },
+          { id: 1, navTitle: "About Peku", link: "/#about" },
           { id: 2, navTitle: "Pekonomics", link: "/#pekonomics" },
           { id: 4, navTitle: "Presale Stats", link: "/#stats" },
           { id: 5, navTitle: "Raid generator", link: "/raid" },
@@ -561,7 +561,7 @@
                     className: "xl:flex flex-row gap-4 items-center hidden",
                     children: [
                       (0, a.jsx)("a", {
-                        href: "https://t.me/pekosol",
+                        href: "https://t.me/pekueth",
                         className:
                           "hover:scale-105 transition-all duration-300 ease-in-out",
                         initial: { opacity: 0 },
@@ -584,7 +584,7 @@
                         }),
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://x.com/pekosol?s=21",
+                        href: "https://x.com/pekueth",
                         className:
                           "hover:scale-105 transition-all duration-300 ease-in-out",
                         initial: { opacity: 0 },
